@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF6B35&height=200&section=header&text=YASH%20KALRA&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Cloud%20Service%20Engineer%20%7C%20SRE%20%26%20Observability%20Focused&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=shark&color=0D1117&height=220&section=header&text=%3E_%20YASH%20KALRA&fontSize=44&fontColor=FF6B35&fontAlignY=35&desc=Cloud%20Service%20Engineer%20%7C%20SRE%20%26%20Observability%20Focused&descColor=8B949E&descAlignY=58&descSize=16&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+yash_kalra;%24+role+%E2%86%92+cloud_service_engineer+%40+RTDS;%24+focus+%E2%86%92+sre+%2B+observability+%2B+automation;%24+stack+%E2%86%92+aws+%7C+linux+%7C+docker+%7C+grafana+%7C+n8n;%24+status+%E2%86%92+open_to_work%3A+true)](https://github.com/YASHkalraji)
 
