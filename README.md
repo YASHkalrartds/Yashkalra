@@ -1,20 +1,20 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=shark&color=0D1117&height=220&section=header&text=%3E_%20YASH%20KALRA&fontSize=44&fontColor=FF6B35&fontAlignY=35&desc=Cloud%20Service%20Engineer%20%7C%20SRE%20%26%20Observability%20Focused&descColor=8B949E&descAlignY=58&descSize=16&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=shark&color=0D1117&height=220&section=header&text=%3E_%20YASH%20KALRA&fontSize=44&fontColor=39FF88&fontAlignY=35&desc=Cloud%20Service%20Engineer%20%7C%20SRE%20%26%20Observability%20Focused&descColor=8B949E&descAlignY=58&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+yash_kalra;%24+role+%E2%86%92+cloud_service_engineer+%40+RTDS;%24+focus+%E2%86%92+sre+%2B+observability+%2B+automation;%24+stack+%E2%86%92+aws+%7C+linux+%7C+docker+%7C+grafana+%7C+n8n;%24+status+%E2%86%92+open_to_work%3A+true)](https://github.com/YASHkalraji)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF88&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+yash_kalra;%24+role+%E2%86%92+cloud_service_engineer+%40+RTDS;%24+focus+%E2%86%92+sre+%2B+observability+%2B+automation;%24+stack+%E2%86%92+aws+%7C+linux+%7C+docker+%7C+grafana+%7C+n8n;%24+status+%E2%86%92+open_to_work%3A+true)](https://github.com/YASHkalraji)
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-FF6B35?style=flat-square&labelColor=0D1117)
-![University](https://img.shields.io/badge/Graphic%20Era%20Hill%20University-2020--2024-FF6B35?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Dehradun%2C%20India-FF6B35?style=flat-square&labelColor=0D1117)
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-39FF88?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/Graphic%20Era%20Hill%20University-2020--2024-39FF88?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Dehradun%2C%20India-39FF88?style=flat-square&labelColor=0D1117)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yashkalra2513)
-[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:yashkalra2513@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/YASHkalraji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yashkalra2513)
+[![Email](https://img.shields.io/badge/Email-39FF88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:yashkalra2513@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-39FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/YASHkalraji)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YASHkalraji&color=FF6B35&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YASHkalraji?style=flat-square&color=FF6B35&labelColor=0D1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/YASHkalraji?style=flat-square&color=FF6B35&labelColor=0D1117&label=Total+Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=YASHkalraji&color=39FF88&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/YASHkalraji?style=flat-square&color=39FF88&labelColor=0D1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/YASHkalraji?style=flat-square&color=39FF88&labelColor=0D1117&label=Total+Stars)
 
 </div>
 
@@ -40,11 +40,11 @@ OPEN_TO  = ["SRE", "Cloud Infrastructure Engineer", "DevOps Engineer"]
 
 ## `$ cat specialties.md`
 
-![SRE](https://img.shields.io/badge/Site%20Reliability%20Engineering-FF6B35?style=flat-square&labelColor=0D1117)
-![Observability](https://img.shields.io/badge/Observability-FF6B35?style=flat-square&labelColor=0D1117)
-![Automation](https://img.shields.io/badge/Automation-FF6B35?style=flat-square&labelColor=0D1117)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-FF6B35?style=flat-square&labelColor=0D1117)
-![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-FF6B35?style=flat-square&labelColor=0D1117)
+![SRE](https://img.shields.io/badge/Site%20Reliability%20Engineering-39FF88?style=flat-square&labelColor=0D1117)
+![Observability](https://img.shields.io/badge/Observability-39FF88?style=flat-square&labelColor=0D1117)
+![Automation](https://img.shields.io/badge/Automation-39FF88?style=flat-square&labelColor=0D1117)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-39FF88?style=flat-square&labelColor=0D1117)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-39FF88?style=flat-square&labelColor=0D1117)
 
 ## `$ cat expertise.md`
 
@@ -124,7 +124,7 @@ A BAT-script tool that made safe server reboots self-service for non-technical s
 - Participated in root cause analysis and post-incident reviews spanning application and database layers
 - Proposed and implemented automation initiatives that improved reliability and cut repetitive operational work
 
-`Tags:` ![](https://img.shields.io/badge/-Windows%20Server-FF6B35?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Active%20Directory-FF6B35?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Grafana-FF6B35?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-MySQL%2FSQL%20Server-FF6B35?style=flat-square&labelColor=0D1117)
+`Tags:` ![](https://img.shields.io/badge/-Windows%20Server-39FF88?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Active%20Directory-39FF88?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Grafana-39FF88?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-MySQL%2FSQL%20Server-39FF88?style=flat-square&labelColor=0D1117)
 
 <br>
 
@@ -134,7 +134,7 @@ A BAT-script tool that made safe server reboots self-service for non-technical s
 - Automated deployment steps using Shell scripting
 - Worked with Git branching strategies and Agile workflows
 
-`Tags:` ![](https://img.shields.io/badge/-GitLab%20CI%2FCD-FF6B35?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-AWS%20CodePipeline-FF6B35?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Docker%2FECS-FF6B35?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Shell%20Scripting-FF6B35?style=flat-square&labelColor=0D1117)
+`Tags:` ![](https://img.shields.io/badge/-GitLab%20CI%2FCD-39FF88?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-AWS%20CodePipeline-39FF88?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Docker%2FECS-39FF88?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/-Shell%20Scripting-39FF88?style=flat-square&labelColor=0D1117)
 
 ## `$ cat achievements.md`
 
@@ -152,7 +152,8 @@ A BAT-script tool that made safe server reboots self-service for non-technical s
 
 ## `$ cat education.md`
 
-[![Education](https://img.shields.io/badge/B.Tech%20Computer%20Science-Graphic%20Era%20Hill%20University%20%7C%202020--2024-FF6B35?style=for-the-badge&labelColor=0D1117)](https://github.com/YASHkalraji)
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-39FF88?style=for-the-badge&labelColor=0D1117)
+![University](https://img.shields.io/badge/Graphic%20Era%20Hill%20University-2020--2024-39FF88?style=for-the-badge&labelColor=0D1117)
 
 ## `$ cat certifications.md`
 
@@ -169,10 +170,10 @@ A BAT-script tool that made safe server reboots self-service for non-technical s
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YASHkalraji&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=8B949E&border_color=FF6B35)
-![Streak Stats](https://github-readme-streak-stats.demolab.com/?user=YASHkalraji&background=0D1117&border=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YASHkalraji&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=8B949E&border_color=39FF88)
+![Streak Stats](https://github-readme-streak-stats.demolab.com/?user=YASHkalraji&background=0D1117&border=39FF88&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YASHkalraji&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=8B949E&border_color=FF6B35)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YASHkalraji&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=8B949E&border_color=39FF88)
 
 </div>
 
@@ -180,7 +181,7 @@ A BAT-script tool that made safe server reboots self-service for non-technical s
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YASHkalraji&theme=flat&title=FF6B35&icon=FF6B35&background=0D1117&border_radius=8&column=7&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=YASHkalraji&theme=flat&title=39FF88&icon=39FF88&background=0D1117&border_radius=8&column=7&no-frame=true)
 
 </div>
 
@@ -188,7 +189,7 @@ A BAT-script tool that made safe server reboots self-service for non-technical s
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YASHkalraji&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YASHkalraji&bg_color=0D1117&color=39FF88&line=39FF88&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -241,12 +242,12 @@ current_focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yashkalra2513)
-[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:yashkalra2513@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/YASHkalraji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yashkalra2513)
+[![Email](https://img.shields.io/badge/Email-39FF88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:yashkalra2513@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-39FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/YASHkalraji)
 
 *"Reliability isn't an accident — it's a pipeline you keep watching."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6B35&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF88&height=120&section=footer)
 
 </div>
