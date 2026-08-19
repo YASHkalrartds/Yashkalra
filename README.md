@@ -1,6 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A2B1A&height=230&section=header&text=%3E_%20YASH%20KALRA&fontSize=46&fontColor=39FF88&fontAlignY=32&desc=Cloud%20Service%20Engineer%20%C2%B7%20SRE%20%26%20Observability%20%C2%B7%20IT%20Services&descColor=8B949E&descAlignY=52&descSize=15&animation=fadeIn)
 
 ![2 Years Experience](https://img.shields.io/badge/Experience-2%2B%20Years-39FF88?style=flat-square&labelColor=0D1117)
 ![SRE](https://img.shields.io/badge/Focus-SRE%20%26%20Observability-39FF88?style=flat-square&labelColor=0D1117)
