@@ -196,14 +196,6 @@ A BAT-script tool that made safe server reboots self-service for non-technical s
 
 </div>
 
-## `$ ./contribution-snake.sh`
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YASHkalraji/YASHkalraji/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ## `$ cat current-focus.yaml`
 
 ```yaml
